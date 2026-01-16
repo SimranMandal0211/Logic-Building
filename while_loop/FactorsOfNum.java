@@ -15,5 +15,7 @@ public class FactorsOfNum {
             }
             i++;
         }
+
+        sc.close();
     }
 }
